@@ -1,6 +1,6 @@
 Hello Everyone, My name is **Seena Khan** 👋
 
-![](/Seena1.jpg)
+![](/Seena12.jpg)
 
 
 
