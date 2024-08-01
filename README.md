@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello Everyone, My name is ## Seena Khan 👋
 
 <!--
 **seenakhan/seenakhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
