@@ -1,11 +1,6 @@
 Hello Everyone, My name is **Seena Khan** 👋
 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/seenakhan/seenakhan/blob/main/Seena1.jpg">
-</picture>
 
 
 
