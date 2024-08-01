@@ -1,6 +1,6 @@
 Hello Everyone, My name is **Seena Khan** 👋
 
-![image](seena1.jpg)
+![image](../seena1.jpg)
 
 <!--
 **seenakhan/seenakhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
