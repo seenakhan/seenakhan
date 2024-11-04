@@ -35,7 +35,7 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 
 # Seena Khan Blogs
 
-![](Images/AI.png)
+![](AI.png)
 
 - **Following are the list of blogs [Blog](https://dev.to/seenakhan)**
     - [Deploy an Information agent by using Copilot template](https://dev.to/seenakhan/deploy-an-information-agent-by-using-copilot-template-4edh)
