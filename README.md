@@ -38,6 +38,7 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 ![](AI.png)
 
 - **Following are the list of blogs [Blog](https://dev.to/seenakhan)**
+    - [Dataverse Elastic Tables](https://dev.to/seenakhan/dataverse-elastic-tables-570o)
     - [Deploy an Information agent by using Copilot template](https://dev.to/seenakhan/deploy-an-information-agent-by-using-copilot-template-4edh)
     - [Deploy AI medical copilot by using Microsoft healthcare agent service and use it in Powerapps](https://dev.to/seenakhan/deploy-ai-medical-copilot-and-access-it-to-powerapps-50mk)
     - [Use Client API Object model in Power Apps](https://dev.to/seenakhan/use-client-api-object-model-in-power-apps-2odh)
