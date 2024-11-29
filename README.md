@@ -38,6 +38,7 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 ![](AI.png)
 
 - **Following are the list of blogs [Blog](https://dev.to/seenakhan)**
+    - [Microsoft Power Platform: 2024 Release Wave 2 Highlights](https://dev.to/seenakhan/microsoft-power-platform-2024-release-wave-2-plan-29c8)
     - [Build a Responsible AI Career Counselor Copilot with Azure Content Safety Service](https://dev.to/seenakhan/build-a-responsible-ai-career-counselor-copilot-with-azure-content-safety-service-2ik2)
     - [Dataverse Elastic Tables](https://dev.to/seenakhan/dataverse-elastic-tables-570o)
     - [Deploy an Information agent by using Copilot template](https://dev.to/seenakhan/deploy-an-information-agent-by-using-copilot-template-4edh)
