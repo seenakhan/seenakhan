@@ -38,6 +38,12 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 ![](AI.png)
 
 - **Following are the list of blogs [Blog](https://dev.to/seenakhan)**
+    - [Building Custom Power Platform Solutions with Advanced Connectors and C# Integration](https://dev.to/seenakhan/building-custom-power-platform-solutions-with-advanced-connectors-and-c-integration-3ddj)
+    - [Using Deep Links in Canvas Apps to Navigate to a Specific Screen with SharePoint Data](https://dev.to/seenakhan/using-deep-links-in-canvas-apps-to-navigate-to-a-specific-screen-with-sharepoint-data-3o35)
+    - [Exploring Link Modern Controls in PowerApps: Use Cases and Examples](https://dev.to/seenakhan/exploring-link-modern-controls-in-powerapps-use-cases-and-examples-4j4l)
+    - [Harnessing the Power of DeepSeek on Azure with Power Automate](https://dev.to/seenakhan/harnessing-the-power-of-deepseek-on-azure-with-power-automate-jdl)
+    - [Building a Smart Feedback Agent with Copilot Studio, Adaptive cards and Power Automate](https://dev.to/seenakhan/building-a-smart-feedback-agent-with-copilot-studio-adaptive-cards-and-power-automate-34id)
+    - [Optimize and Monitor Power Apps Like a Pro with Application Insights](https://dev.to/seenakhan/optimize-and-monitor-power-apps-like-a-pro-with-application-insights-20k3)
     - [Microsoft Power Platform: 2024 Release Wave 2 Highlights](https://dev.to/seenakhan/microsoft-power-platform-2024-release-wave-2-plan-29c8)
     - [Build a Responsible AI Career Counselor Copilot with Azure Content Safety Service](https://dev.to/seenakhan/build-a-responsible-ai-career-counselor-copilot-with-azure-content-safety-service-2ik2)
     - [Dataverse Elastic Tables](https://dev.to/seenakhan/dataverse-elastic-tables-570o)
