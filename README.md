@@ -38,6 +38,8 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 ![](AI.png)
 
 - **Following are the list of blogs [Blog](https://dev.to/seenakhan)**
+    - [Agentic Flow in Copilot Studio: Transforming Automation with AI-Driven Workflows](https://dev.to/seenakhan/agentic-flow-in-copilot-studio-transforming-automation-with-ai-driven-workflows-a1e)
+    - [Mastering Pipeline Environments in Microsoft Power Platform: A Step-by-Step Guide](https://dev.to/seenakhan/mastering-pipeline-environments-in-microsoft-power-platform-a-step-by-step-guide-4o36)
     - [Building Custom Power Platform Solutions with Advanced Connectors and C# Integration](https://dev.to/seenakhan/building-custom-power-platform-solutions-with-advanced-connectors-and-c-integration-3ddj)
     - [Using Deep Links in Canvas Apps to Navigate to a Specific Screen with SharePoint Data](https://dev.to/seenakhan/using-deep-links-in-canvas-apps-to-navigate-to-a-specific-screen-with-sharepoint-data-3o35)
     - [Exploring Link Modern Controls in PowerApps: Use Cases and Examples](https://dev.to/seenakhan/exploring-link-modern-controls-in-powerapps-use-cases-and-examples-4j4l)
