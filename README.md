@@ -38,6 +38,9 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 ![](AI.png)
 
 - **Following are the list of blogs [Blog](https://dev.to/seenakhan)**
+    - [Power Apps Test Engine Overview](https://dev.to/seenakhan/power-apps-test-engine-overview-2llb)
+    - [Streamline Power platform Integration with Graph API & Custom Connectors](https://dev.to/seenakhan/using-microsoft-graph-api-for-custom-connectors-a-comprehensive-guide-1g02)
+    - [Exploring Microsoft Copilot Studio and Model Context Protocol (MCP)](https://dev.to/seenakhan/exploring-microsoft-copilot-studio-and-model-context-protocol-mcp-642)
     - [Enhancing Power Automate Performance: Tips & Tricks](https://dev.to/seenakhan/enhancing-power-automate-performance-tips-tricks-32fd)
     - [Agentic Flow in Copilot Studio: Transforming Automation with AI-Driven Workflows](https://dev.to/seenakhan/agentic-flow-in-copilot-studio-transforming-automation-with-ai-driven-workflows-a1e)
     - [Mastering Pipeline Environments in Microsoft Power Platform: A Step-by-Step Guide](https://dev.to/seenakhan/mastering-pipeline-environments-in-microsoft-power-platform-a-step-by-step-guide-4o36)
