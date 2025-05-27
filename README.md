@@ -38,6 +38,7 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 ![](AI.png)
 
 - **Following are the list of blogs [Blog](https://dev.to/seenakhan)**
+    - [Microsoft Build 2025: The Future of AI Agents and Developer Innovation](https://dev.to/seenakhan/microsoft-build-2025-the-future-of-ai-agents-and-developer-innovation-2gmg)
     - [Power Apps Test Engine Overview](https://dev.to/seenakhan/power-apps-test-engine-overview-2llb)
     - [Streamline Power platform Integration with Graph API & Custom Connectors](https://dev.to/seenakhan/using-microsoft-graph-api-for-custom-connectors-a-comprehensive-guide-1g02)
     - [Exploring Microsoft Copilot Studio and Model Context Protocol (MCP)](https://dev.to/seenakhan/exploring-microsoft-copilot-studio-and-model-context-protocol-mcp-642)
